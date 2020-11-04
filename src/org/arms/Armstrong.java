@@ -18,6 +18,8 @@ public class Armstrong {
 		 }
 		 else {System.out.println("not");
 	}
+		 
+		 System.out.println("Have a good day");
 
 }
 }
